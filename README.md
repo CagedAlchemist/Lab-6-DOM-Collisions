@@ -1,1 +1,2 @@
-# Lab-6-DOM-Collisions
+# JSPlatformer
+JS Platformer for DIG 3480C
